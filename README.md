@@ -9,7 +9,9 @@ ML: sklearn, pandas, numpy API: flask Данные: с kaggle - https://www.kagg
 Используемые признаки:
 
 Gender
+
 Age 
+
 EstimatedSalary 
 
 Модель: logreg
